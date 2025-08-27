@@ -5,6 +5,7 @@ params:
   showGazette: false
   logoURL: false
   touchURL: false
+  RSSFeedURLs: []
   bannerScriptURL: false
   showTemporary: false
   showTypes: false
