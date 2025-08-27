@@ -5,11 +5,11 @@ params:
   logoURL: false
   touchURL: false
   RSSFeedURLs: []
-  bannerScriptURL: false
   showTemporary: false
   showTypes: false
   lowerLyricTitles: false
   _showGazette: false
+  _bannerScriptURL: false
 
 ignoreFiles:
   - themes/home/content/blog/.*
