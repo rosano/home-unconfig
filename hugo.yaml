@@ -4,6 +4,7 @@ params:
   mediaPrefix: false
   showGazette: false
   logoURL: false
+  touchURL: false
   bannerScriptURL: false
   showTemporary: false
   showTypes: false
