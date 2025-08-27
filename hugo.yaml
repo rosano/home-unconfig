@@ -1,6 +1,6 @@
 params:
   timelineSources: []
-  sourcePrefix: ''
+  sourcePrefix: false
   mediaPrefix: false
   showGazette: false
   logoURL: false
