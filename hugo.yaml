@@ -2,7 +2,6 @@ params:
   timelineSources: []
   sourcePrefix: false
   mediaPrefix: false
-  showGazette: false
   logoURL: false
   touchURL: false
   RSSFeedURLs: []
@@ -10,6 +9,7 @@ params:
   showTemporary: false
   showTypes: false
   lowerLyricTitles: false
+  _showGazette: false
 
 ignoreFiles:
   - themes/home/content/blog/.*
