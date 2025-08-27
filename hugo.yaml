@@ -5,8 +5,8 @@ params:
   logoURL: false
   touchURL: false
   RSSFeedURLs: []
-  showTypes: false
   lowerLyricTitles: false
+  _showTypes: false
   _showGazette: false
   _bannerScriptURL: false
   _showTemporary: false
